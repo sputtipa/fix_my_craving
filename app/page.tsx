@@ -389,10 +389,11 @@ export default function Home() {
           color: "#635f5c",
           letterSpacing: "0.06em",
         }}>
-          made with 🌿 fix_my_craving · <a href="https://linkedin.com/in/puttipa-seraypheap" style={{color: "#94908a", textDecoration: "none"}}>linkedin</a>
+          made with 🌿 fix_my_craving 
+          <a href="https://linkedin.com/in/puttipa-seraypheap" style={{ display: "block", color: "#94908a", textDecoration: "none", marginTop: "0.25rem", textAlign: "center" }}>
+            let&apos;s connect!
+          </a>
         </p>
-        
-
       </main>
     </>
   )
