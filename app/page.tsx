@@ -386,11 +386,12 @@ export default function Home() {
         <p className="mono" style={{
           marginTop: "3rem",
           fontSize: "0.75rem",
-          color: "#d4ccc4",
+          color: "#635f5c",
           letterSpacing: "0.06em",
         }}>
-          made with 🌿 fix_my_craving
+          made with 🌿 fix_my_craving · <a href="https://linkedin.com/in/puttipa-seraypheap" style={{color: "#94908a", textDecoration: "none"}}>linkedin</a>
         </p>
+        
 
       </main>
     </>
